@@ -24,7 +24,7 @@ export default {
     },
     methods: {
         closePop(data) {
-            this.$emit('close',data)
+            this.$emit('  close',data)
         }
     }
 
