@@ -20,7 +20,7 @@ export default {
             default: {},
             type: Object
         },
-        isShow: false
+        isShow:   false
     },
     methods: {
         closePop(data) {
